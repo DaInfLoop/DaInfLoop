@@ -4,5 +4,5 @@
 
 Projects I have worked/am working on:
 
-[![]("https://gamebanana.com/wips/embeddables/66110?type=thumbnail")](https://gamebanana.com/wips/66110)
+[![](https://gamebanana.com/wips/embeddables/66110?type=thumbnail)](https://gamebanana.com/wips/66110)
 ###### [View source on Github](https://github.com/DaInfLoop/Funkin-x-House-Vibe)
